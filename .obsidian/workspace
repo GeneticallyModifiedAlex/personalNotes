@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ea423275c67d065c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40a57f4c6e5d7e2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e05f6949ad36a4b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cecad36587f3f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc1b17460726861",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d619cf85a43db94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b6a7044b29cd2c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a893b6a798d9b8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1a2f0f50881532",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b40a57f4c6e5d7e2",
+  "lastOpenFiles": [
+    "README.md",
+    "Projects/2.Need to do/Personal Portfolio Site.md",
+    "Daily Notes/2022-01-31.md"
+  ]
+}
