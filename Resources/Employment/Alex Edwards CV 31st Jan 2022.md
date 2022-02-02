@@ -1,43 +1,63 @@
 
 # Alex Edwards {#Name}
-07983279277 | **geneticallymodifiedalex@gmail.com** 
-## Education {#education}
 
-- [ ] change ordering. School, Education, Grade ,date year
+07983279277 | **geneticallymodifiedalex@gmail.com**
 
-BSc Computer Science at **Queen Mary University of London** | 2nd Class Upper-Division (with Honours)
-Level 3 90 Credit Diploma in IT at **Sir George Monoux** | (Tripple Distinction Star)
-12 GCSE's B-C | **Wanstead High School**
-<div id="hell" class="header" style="color:red">
-    <h2 id="experience">Experience and Projects</h2>
-Paperboy
-</div>
+## Education {#education .header-2 .section-header}
 
-## languages
+**Queen Mary University of London** | *09.2018-08.2021* | Computer Science BSc (**Hons**) 2.1
+**Sir George Monoux College** | 09.2015-07.2018 | *Level 3 90 Credit Diploma in IT* | Triple Distinction Star
+**JP Morgan Employability Trainging** | 09.2015 - 01.2016
+**Wanstead High School** | *09.2013-07.2015* | 12 GCSEs B-C
+
+## Experience {#experience .header-2 .section-header}
+
+**Teacher's Assistant** | 11.2013 - 07.2015 | Wanstead High ICT Deparment Ms Bateson
+**Assistant** | 07.2014 - 07.2014 | Greenwich University, ELU 
+**Founder, Editor** | 09.2015 - 07.2017 | SGMC Blog club (Geek Live)
+**Participant** | 09.2015 - 05.2016 |Pathway to engineering Program with GoodJobs and Atkins Engineering 
+
+## Projects {#projects .header-2 .section-header}
+
+## Languages
+
 Python
 HTML5 /JS ES6/CSS3
 java
-## hard skills
+
+## Hard skills
+
+Trouble Shooting and Diagnostics
 Laptop ,PC and Phone Repair
-Software Delopment
+Software Engineering
+Design
 Security Engineering
 Distributed Systems
 Research and evaluation
 Teamwork
-Systems
-Algorithms and Data Structures
 Networking
+Full Stack Web Development
+Algorithms and Data Structures
 Artificial Intelligence
 Data Mining/Big Data Processing
+
 ## Soft Skills
+
 Communication
 Research and evaluation
 Teamwork
 Presentation
-## Toolkit 
+Client Facing
+Customer Service
+Teaching
+
+## Toolkit
+
 Linux
 bash
 git / github
+Django
+pytorch
 VIM
 React
 Vue.js
@@ -52,39 +72,9 @@ Jupyter Notebook
 anaconda
 Thunderbird
 
-## Skills {#skills}
-**laptop gc, PC, Phone repair**
-
-**SQL**
-**bash**
-**Audacity**
-**anaconda**
-**pytorch**
-**Django**
-**Firebase**
-project management
-Budgeting
-server management
-client facing
-Dungeon master 5e
-note taking
-
-**Google Suite**
-**Artificial Intelegence**
-**Object Orientated Programing**
-**Big Data Processing**
-**Procedural Programing**
-**Security**
-**Audio Editing**
-**Cinematography**
-**Teaching**
-**Communication**
-**Customer Service**
-**Sales**
-**Presentation**
-**DIY**
-
 - [ ] important softeware (msoffice, gsuite,git,github)
 - [ ] relevant software (relevant to job specifically ())
 - [ ] libraies/frameworks
 - [ ] Daily usecases(linux,vscode,thunderbird)
+
+updated: 1st Feb 2022
